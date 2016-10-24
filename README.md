@@ -4,8 +4,6 @@ The Genius S1E4 Main Match : Zombie Game into PocketMine-MP
 
 What is Zombie Game?
 
-Korean Explanation
-
 Before starting the game, select two initial zombie.
 There are 3 rounds.
 If you didn't touch at least one time a round, you become a zombie.
